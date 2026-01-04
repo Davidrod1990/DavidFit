@@ -1,0 +1,8 @@
+{
+  "name": "DavidFit",
+  "description": "A persuasion-based fitness ecosystem that fuses behavioral science with elite training methodology to ensure long-term adherence and real results.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
